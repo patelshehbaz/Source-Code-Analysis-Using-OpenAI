@@ -1,5 +1,7 @@
 # Source-Code-Analysis-Using-OpenAI
 
+This cutting-edge application is designed to empower developers by providing detailed explanations of GitHub repository code. Just provide a public link to a repo and ask any question in the chatbot interface - you'll get a comprehensive analysis, leveraging the powerful capabilities of OpenAI's GPT-3!
+
 ### How to run?
 
 STEPS:
@@ -38,9 +40,8 @@ python app.py
 
 ### Techstack Used:
 
-Python
-LangChain
-Flask
-OpenAI
-GPT 3
-ChoromaDB
+- Python
+- LangChain
+- Flask
+- OpenAI GPT 3.5
+- ChoromaDB
